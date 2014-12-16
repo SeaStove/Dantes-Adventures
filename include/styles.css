@@ -1,0 +1,79 @@
+#canvas {
+	border: 1px solid black;
+	margin: 0 auto;
+}
+
+body {
+	background-color: white;
+}
+
+h1{
+	text-align:center;
+}
+
+#canvHolder {
+	width: 1000px;
+	height: 500px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+button{
+	text-align: center;
+	margin: 0 auto;
+}
+
+#timer{
+	text-align: center;
+	zoom:2;
+}
+
+iframe{
+	text-align: center;
+	margin: 0 auto;
+	height: 500;
+	width: 640;
+}
+
+form{
+	text-align: center;
+	margin: 0 auto;
+}
+
+.Pix {
+	width: 100px;
+	height: 100px;
+}
+
+.center{
+	width: 500px;
+	text-align: center;
+	margin: 0 auto;
+}
+
+.sb {
+	width: 33%;
+	float: left;
+}
+
+table{
+	border: 1 black;
+	text-align: center;
+	margin: 0 auto;
+}
+
+tr{
+	width: 100px;
+}
+th{
+	width: 100px;
+}
+
+.rightbutton{
+	float: right;
+	margin-right:40%;
+}
+.leftbutton{
+	float:left;
+	margin-left:42%;
+}
